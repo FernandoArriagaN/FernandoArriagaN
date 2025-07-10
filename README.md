@@ -1,7 +1,5 @@
 <h1 align="center"><b>Hi , I'm Fernando Arriaga </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-
-<br>
 <br>
 
 - 💬 Ask me about:  **Html5, CSS, Sass, React, Javascript,  Redux**
@@ -15,8 +13,7 @@
 <br>
 <br>
 <br>
-<h2>Lenguages & Tools:</h2>
-<br>
+<p>Lenguages & Tools: <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 <p align="left">  
 <a href="https://getbootstrap.com" target="_blank"> 
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> 
@@ -50,13 +47,15 @@
 		<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="sass" width="40" height="40"/>
 	</a>
 </p>
-
+<br>
+<br>
+<br>
 
 </div>
 <br>
 <br>
-<h3>📫 Let's Connect..!</h3>
-<br>
+<p>📫 Let's Connect..! <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
+
 <div align='left'>
 
 <ul>
