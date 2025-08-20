@@ -7,7 +7,7 @@
 - 📫 Contacto:  **jf.arriaga@hotmail.com**
 
 
-- ⚡ Dato Interesante:  ** Tengo experiencia en Diseño Gráfico Preprensa, lo cual me da un buen ojo para la funcionalidad y la estética para el desarrollo FRONT-END.**
+- ⚡ Dato Interesante:  **Tengo experiencia en Diseño Gráfico Preprensa, lo cual me da un buen ojo para la funcionalidad y la estética para el desarrollo FRONT-END.**
 
 
 <br>
