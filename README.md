@@ -1,13 +1,13 @@
-<h1 align="center"><b>Hi , I'm Fernando Arriaga </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola , Yo soy Fernando Arriaga </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <br>
 
-- 💬 Ask me about:  **Html5, CSS, Sass, React, Javascript,  Redux**
+- 💬 Preguntame sobre:  **Html5, CSS, Sass, React, Javascript,  Redux**
 
-- 📫 How to reach me:  **jf.arriaga@hotmail.com**
+- 📫 Contacto:  **jf.arriaga@hotmail.com**
 
 
-- ⚡ Fun fact:  **I have experience in prepress and graphic design, wich gives me a keen eye for usability and and aesthetics is FRONT-END Development.**
+- ⚡ Dato Interesante:  ** Tengo experiencia en Diseño Gráfico Preprensa, lo cual me da un buen ojo para la funcionalidad y la estética para el desarrollo FRONT-END.**
 
 
 <br>
