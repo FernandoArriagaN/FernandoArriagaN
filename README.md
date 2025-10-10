@@ -8,10 +8,10 @@
 
 
 - ⚡ Dato Interesante:  **Tengo experiencia en Diseño Gráfico Preprensa, lo cual me da un buen ojo para la funcionalidad y la estética para el desarrollo FRONT-END.**
-
+<br>
+<br>
 <img src="https://github-profile-trophy.vercel.app/?username=FernandoArriagaN" />
-<br>
-<br>
+
 <br>
 <p>Lenguages & Tools: <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 <p align="left">  
