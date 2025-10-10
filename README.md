@@ -9,7 +9,7 @@
 
 - ⚡ Dato Interesante:  **Tengo experiencia en Diseño Gráfico Preprensa, lo cual me da un buen ojo para la funcionalidad y la estética para el desarrollo FRONT-END.**
 
-
+<img src="https://github-profile-trophy.vercel.app/?username=FernandoArriagaN" />
 <br>
 <br>
 <br>
