@@ -93,6 +93,19 @@
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=FernandoArriagaN&theme=tokyonight&hide_border=true">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoArriagaN&theme=tokyonight&show_icons=true&hide_border=true&layout=compact">
 </p>
+<br>
+<br>
+<br>
+## Proyectos
 
+1.[The Gaming Hub](https://github.com/FernandoArriagaN/TheGamingHub)
+- The Gaming Hub es una aplicación web enfocada en los amantes de los videojuegos.
+Permite explorar, buscar y descubrir información de juegos a través del consumo de una API de videojuegos.
+
+2.[Caras Landing](https://github.com/FernandoArriagaN/ReactCaras)
+- Caras es una landing page desarrollada para atraer y captar suscriptores de la revista mexicana "Caras", especializada en entretenimiento y noticias del mundo del espectáculo.
+
+3.[Vox Nova](https://github.com/FernandoArriagaN/VoxNova)
+-VoxNova es una landing page moderna diseñada para presentar los audífonos Nova de la marca Vox, reconocidos por su fidelidad de sonido y amados por los verdaderos amantes del audio.
 
   
