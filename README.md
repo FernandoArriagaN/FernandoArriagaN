@@ -106,6 +106,6 @@ Permite explorar, buscar y descubrir información de juegos a través del consum
 - Caras es una landing page desarrollada para atraer y captar suscriptores de la revista mexicana "Caras", especializada en entretenimiento y noticias del mundo del espectáculo.
 
 3.[Vox Nova](https://github.com/FernandoArriagaN/VoxNova)
--VoxNova es una landing page moderna diseñada para presentar los audífonos Nova de la marca Vox, reconocidos por su fidelidad de sonido y amados por los verdaderos amantes del audio.
+- VoxNova es una landing page moderna diseñada para presentar los audífonos Nova de la marca Vox, reconocidos por su fidelidad de sonido y amados por los verdaderos amantes del audio.
 
   
