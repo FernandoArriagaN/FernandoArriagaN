@@ -96,7 +96,7 @@
 <br>
 <br>
 <br>
-## Proyectos
+##Proyectos
 
 1.[The Gaming Hub](https://github.com/FernandoArriagaN/TheGamingHub)
 - The Gaming Hub es una aplicación web enfocada en los amantes de los videojuegos.
