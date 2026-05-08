@@ -46,6 +46,12 @@
 	<a href="https://www.typescriptlang.org/" target="_blank">
 		<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="sass" width="40" height="40"/>
 	</a>
+	<a href="https://www.python.org/" target="_blank">
+		<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="sass" width="40" height="40"/>
+	</a>
+	<a href="https://angular.dev/" target="_blank">
+		<img src="https://cdn.worldvectorlogo.com/logos/angular-3.svg" alt="sass" width="40" height="40"/>
+	</a>
 </p>
 <br>
 <br>
